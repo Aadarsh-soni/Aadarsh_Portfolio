@@ -144,64 +144,62 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Chat Collect",
-      href: "https://chatcollect.com",
-      dates: "Jan 2024 - Feb 2024",
+      title: "Alumini Association Platform",
+      href: "#",
+      dates: "Nov 2024 - Dec 2024",
       active: true,
       description:
-        "With the release of the [OpenAI GPT Store](https://openai.com/blog/introducing-the-gpt-store), I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
+        "Development: A website for Alumni Association using React, hosted on Vercel.",
       technologies: [
-        "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
+        "Node js",
         "TailwindCSS",
-        "Stripe",
-        "Shadcn UI",
-        "Magic UI",
+        "React",
+        "MongoDB",
+        "PostgreSQL",
+        "Postman",
+        "Figma"
       ],
       links: [
         {
           type: "Website",
-          href: "https://chatcollect.com",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "",
-      video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
-    },
-    {
-      title: "Magic UI",
-      href: "https://magicui.design",
-      dates: "June 2023 - Present",
-      active: true,
-      description:
-        "Designed, developed and sold animated UI components for developers.",
-      technologies: [
-        "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
-        "TailwindCSS",
-        "Stripe",
-        "Shadcn UI",
-        "Magic UI",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://magicui.design",
+          href: "https://n-square.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/magicuidesign/magicui",
+          href: "https://github.com/Aadarsh-soni/N-Square_SIH-2024",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/nsquare.png",
+    },
+    {
+      title: "AI Based IT Training System",
+      href: "#",
+      dates: "Oct 2023 - Dec 2023",
+      active: true,
+      description:
+        "Designed, developed an App for IT Training using React Native, Node.js, and Figma.",
+      technologies: [
+        "React Native",
+        "Node.js",
+        "Figma",
+        "Android Studio",
+        "Java"
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://e-krishak-website.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Aadarsh-soni/Ai-based-IT-Training-System",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
-      video: "https://cdn.magicui.design/bento-grid.mp4",
+      image: "/it.png",
     },
     {
       title: "llm.report",
@@ -291,20 +289,14 @@ export const DATA = {
     },
     
     {
-      title: "Portal Hackathon",
-      dates: "October 29, 2016",
-      location: "Kingston, Ontario",
+      title: "YIC 2.0",
+      dates: "February 17th 2024",
+      location: "Varanasi, India",
       description:
-        "Developed an internal widget for uploading assignments using Waterloo's portal app",
+        "Startup challange to showcase our product and Application.",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/portal-hackathon.png",
-      links: [
-        {
-          title: "Source",
-          icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/UWPortalSDK/crowmark",
-        },
-      ],
+        "https://innovelec.co.uk/wp-content/uploads/2019/10/YICSquare.jpg",
+      links: [],
     },
   ],
 } as const;
