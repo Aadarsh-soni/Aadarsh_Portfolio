@@ -145,7 +145,7 @@ export const DATA = {
   projects: [
     {
       title: "Alumini Association Platform",
-      href: "#",
+      href: "https://n-square.vercel.app/",
       dates: "Nov 2024 - Dec 2024",
       active: true,
       description:
@@ -175,7 +175,7 @@ export const DATA = {
     },
     {
       title: "AI Based IT Training System",
-      href: "#",
+      href: "https://e-krishak-website.vercel.app/",
       dates: "Oct 2023 - Dec 2023",
       active: true,
       description:
@@ -203,7 +203,7 @@ export const DATA = {
     },
     {
       title: "Tech-Learner App",
-      href: "#",
+      href: "https://github.com/Aadarsh-soni/Ai-based-IT-Training-System/tree/main/Tech_Learner(App%20-Frontend)",
       dates: "Oct 2023 - Dec 2023",
       active: true,
       description:
@@ -227,7 +227,7 @@ export const DATA = {
     },
     {
       title: "Habit Tracker App",
-      href: "#",
+      href: "https://github.com/Aadarsh-soni/Habit_tracker",
       dates: "April 2023 - March 2024",
       active: true,
       description:
