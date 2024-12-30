@@ -263,7 +263,7 @@ export const DATA = {
     {
       title: "Smart India Hackathon",
       dates: "December 19th - 20th, 2023",
-      location: "Waterloo, Ontario",
+      location: "vishakapatnam, India",
       description:
         "Developed a mobile application which delivers university campus wide events in real time to all students.",
       image:
