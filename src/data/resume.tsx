@@ -14,14 +14,10 @@ export const DATA = {
   avatarUrl: "/me.png",
   skills: [
     "React",
-    "Next.js",
-    "Typescript",
+    "React Native",
+    "Figma",
     "Node.js",
-    "Python",
-    "Go",
-    "Postgres",
-    "Docker",
-    "Kubernetes",
+    "TailwindCSS",
     "Java",
     "C++",
   ],
@@ -30,12 +26,12 @@ export const DATA = {
     // { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "hello@example.com",
+    email: "aadarshsoni.dev@gmail.com",
     tel: "+9090909090",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://dub.sh/dillion-github",
+        url: "https://github.com/Aadarsh-soni",
         icon: Icons.github,
 
         navbar: true,
@@ -49,39 +45,33 @@ export const DATA = {
       },
       X: {
         name: "X",
-        url: "https://dub.sh/dillion-twitter",
+        url: "#",
         icon: Icons.x,
 
-        navbar: true,
+        navbar: false,
       },
-      // Youtube: {
-      //   name: "Youtube",
-      //   url: "https://dub.sh/dillion-youtube",
-      //   icon: Icons.youtube,
-      //   navbar: true,
-      // },
       email: {
         name: "Send Email",
-        url: "#",
+        url: "mailto:aadarshsoni.dev@gmail.com",
         icon: Icons.email,
 
-        navbar: false,
+        navbar: true,
       },
     },
   },
 
   work: [
     {
-      company: "Atomic Finance",
-      href: "https://atomic.finance",
+      company: "Binimise Labs",
+      href: "https://binimise.com/",
       badges: [],
       location: "Remote",
-      title: "Bitcoin Protocol Engineer",
+      title: "Frontend Developer",
       logoUrl: "/atomic.png",
-      start: "May 2021",
-      end: "Oct 2022",
+      start: "Nov 2024",
+      end: "Current",
       description:
-        "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
+        "I'm excited to embark on this journey of growth and discovery, honing my design skills, and gaining hands-on experience in the ever-evolving field of UI/UX. With a passion for creativity and a dedication to user-centric design, I'm eager to make meaningful contributions to the team and create impactful user experiences.",
     },
     {
       company: "Shopify",
@@ -131,18 +121,7 @@ export const DATA = {
       description:
         "Proposed and implemented an internal ruby API for sending/receiving commands to scooters over LTE networks. Developed a fully automated bike firmware update system to handle asynchronous firmware updates of over 100,000+ scooters worldwide, and provide progress reports in real-time using React, Ruby on Rails, PostgreSQL and AWS EC2 saving hundreds of developer hours.",
     },
-    {
-      company: "Mitre Media",
-      href: "https://mitremedia.com/",
-      badges: [],
-      location: "Toronto, ON",
-      title: "Software Engineer",
-      logoUrl: "/mitremedia.png",
-      start: "May 2017",
-      end: "August 2017",
-      description:
-        "Designed and implemented a robust password encryption and browser cookie storage system in Ruby on Rails. Leveraged the Yahoo finance API to develop the dividend.com equity screener",
-    },
+    
   ],
   education: [
     {
@@ -161,22 +140,7 @@ export const DATA = {
       start: "2016",
       end: "2021",
     },
-    {
-      school: "Wilfrid Laurier University",
-      href: "https://wlu.ca",
-      degree: "Bachelor's Degree of Business Administration (BBA)",
-      logoUrl: "/laurier.png",
-      start: "2016",
-      end: "2021",
-    },
-    {
-      school: "International Baccalaureate",
-      href: "https://ibo.org",
-      degree: "IB Diploma",
-      logoUrl: "/ib.png",
-      start: "2012",
-      end: "2016",
-    },
+    
   ],
   projects: [
     {
