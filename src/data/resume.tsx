@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Frontend Developer. I love building things and helping people. Very active on LinkedIn.",
   summary:
-    "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
+    "At the end of 2024, I ventured fully into honing my technical skills and building impactful software projects. Currently I'm pursued a B.Tech in Computer Science with a strong GPA, worked as an intern at startups where I contributed to UI/UX design and full-stack development, and participated in multiple hackathons, earning finalist and winner positions. I’ve also had the privilege of working on diverse projects, including an AI-based IT training system and a Alumni association web app , showcasing my expertise in React Native, Node.js, and Figma for user-centric designs.",
   avatarUrl: "/me.png",
   skills: [
     "React",
@@ -31,7 +31,7 @@ export const DATA = {
   ],
   contact: {
     email: "hello@example.com",
-    tel: "+123456789",
+    tel: "+9090909090",
     social: {
       GitHub: {
         name: "GitHub",
@@ -42,7 +42,7 @@ export const DATA = {
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://dub.sh/dillion-linkedin",
+        url: "https://www.linkedin.com/in/aadarshsoni/",
         icon: Icons.linkedin,
 
         navbar: true,
