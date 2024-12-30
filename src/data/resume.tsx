@@ -4,8 +4,9 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Aadarsh Soni",
   initials: "AS",
-  location: "Chhattisgarh,India",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  url: "https://portfolio2025-nine.vercel.app/",
+  location: "Chhattisgarh, India",  
+  locationLink: "https://www.google.com/maps/place/india",
   description:
     "Frontend Developer. I love building things and helping people. Very active on LinkedIn.",
   summary:
