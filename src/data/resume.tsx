@@ -43,12 +43,12 @@ export const DATA = {
 
         navbar: true,
       },
-      X: {
-        name: "X",
-        url: "#",
-        icon: Icons.x,
+      Figma: {
+        name: "Figma Designs",
+        url: "https://www.figma.com/design/LOFDuwSzOKEY4UQT5tuACn/projects?node-id=7-141&t=B8P78fkxpfSR9Hgr-1",
+        icon: Icons.Figma,
 
-        navbar: false,
+        navbar: true,
       },
       email: {
         name: "Send Email",
